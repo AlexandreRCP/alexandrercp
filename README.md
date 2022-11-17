@@ -25,7 +25,7 @@
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/klJ8-u2dLmgAAAAC/itachi-mid-society.gif">
+  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://github.com/AlexandreRCP/alexandrercp/blob/main/blob/itachi-mid-society.gif">
 </div>
   
   ##
@@ -36,6 +36,6 @@
   <a href="https://www.linkedin.com/in/alexandre-paiva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  <div>
-  ![Snake animation](https://github.com/alexandrercp/alexandrercp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alexandrercp/alexandrercp/blob/workflows/cobrinha.svg)
 </div>
  
