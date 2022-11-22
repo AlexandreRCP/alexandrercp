@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning TypeScript; ReactJS; Angular; HTML and CSS
+- 🔭 Systems Analyst, Currently available for work!
+- 🌱 Study object: Java; API REST; JPA; JavaFX; PHP; TypeScript; ReactJS; Angular; HTML and CSS
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/alexandre-paiva/ and email: alex.rcp@gmail.com 
 - 😄 Pronouns: he/his
 </br>
